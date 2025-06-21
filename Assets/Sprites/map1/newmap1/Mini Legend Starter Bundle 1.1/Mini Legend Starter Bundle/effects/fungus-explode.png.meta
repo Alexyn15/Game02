@@ -159,6 +159,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -659,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fungus-explode_0: 4508267442820813122
+      fungus-explode_1: 1779126507111592074
+      fungus-explode_10: 5682241053810700283
+      fungus-explode_11: -2993395563865853671
+      fungus-explode_12: 6399141913808806526
+      fungus-explode_13: 8541478557116268478
+      fungus-explode_14: 7638591124970049481
+      fungus-explode_15: -8625425611725095199
+      fungus-explode_16: 2867337960485236345
+      fungus-explode_17: -6275332628256610699
+      fungus-explode_18: -2777077480740458519
+      fungus-explode_19: -1751539122461517412
+      fungus-explode_2: 6173959923136336810
+      fungus-explode_20: -2890703745402476725
+      fungus-explode_21: -8438126777685739064
+      fungus-explode_3: 2515008361269425751
+      fungus-explode_4: -296466501859632237
+      fungus-explode_5: 5254727701339153317
+      fungus-explode_6: 9137494195918049081
+      fungus-explode_7: -7556778031357498545
+      fungus-explode_8: -4688296861207571116
+      fungus-explode_9: -8448392559771226409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1009,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      altars-separated_0: -5278891366238918094
+      altars-separated_1: 1905329789257468592
+      altars-separated_10: -5476562230720138062
+      altars-separated_11: -8564459221471520371
+      altars-separated_12: 8730211838750997429
+      altars-separated_13: 921282628680319171
+      altars-separated_14: -2963576811792548432
+      altars-separated_15: 3755685240862022358
+      altars-separated_16: 7887234759245462271
+      altars-separated_17: -4754031967154205447
+      altars-separated_18: 4894453951433640529
+      altars-separated_19: 3950713959109217116
+      altars-separated_2: 7067225450103296087
+      altars-separated_20: 6882335806879513511
+      altars-separated_21: 8456303268956166833
+      altars-separated_22: -6997772610676776012
+      altars-separated_23: 7881382020035131657
+      altars-separated_24: 8117113870963383444
+      altars-separated_25: 5860761855806991949
+      altars-separated_26: 1704192693919323523
+      altars-separated_27: -5390545319670798816
+      altars-separated_28: -6134382447433416917
+      altars-separated_29: -8667921639028689274
+      altars-separated_3: 4749506720599837537
+      altars-separated_30: 3262078492668615517
+      altars-separated_31: -4319368529642080868
+      altars-separated_32: 7956826218990361564
+      altars-separated_33: 6608895119606531800
+      altars-separated_34: 587383361758358342
+      altars-separated_35: 5487660106117968129
+      altars-separated_4: -8970969308222018366
+      altars-separated_5: -5150494748390508460
+      altars-separated_6: 7437814815331374757
+      altars-separated_7: -7818852931976302152
+      altars-separated_8: 1727865678622433063
+      altars-separated_9: -2850700869352363952
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
