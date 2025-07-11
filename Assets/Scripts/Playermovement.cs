@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.Audio;
 
 public class Playermovement : MonoBehaviour
 {
@@ -9,6 +11,7 @@ public class Playermovement : MonoBehaviour
     private bool isGrounded;
     private Rigidbody2D rb;
     private Animator animator;
+    
 
     private void Awake()
     {
@@ -40,7 +43,8 @@ public class Playermovement : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            FindObjectOfType<SoundManager>().PlayJumpSound(); // Play jump sound
+           FindObjectOfType<SoundManager>().PlayJumpSound();
+           
         }
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
@@ -51,4 +55,5 @@ public class Playermovement : MonoBehaviour
         animator.SetBool("isRunning", isRunning);
         animator.SetBool("isJumping", isJumping);
     }
+    
 }

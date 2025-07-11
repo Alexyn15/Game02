@@ -6,11 +6,14 @@ public class Enemy : MonoBehaviour
     [SerializeField] private float distance = 5f;
     private Vector3 startPos;
     private bool movingRight = true;
+    private Animator animator;
+    public int damage = 1;
 
     
     void Start()
     {
         startPos = transform.position;
+
     }
 
    
@@ -22,7 +25,7 @@ public class Enemy : MonoBehaviour
             transform.Translate(Vector2.right*speed*Time.deltaTime);
             if(transform.position.x >= rightBound){
                 movingRight = false;
-                flip();
+                Flip();
             }
         }
         else
@@ -31,12 +34,14 @@ public class Enemy : MonoBehaviour
             if(transform.position.x <= leftBound)
             {
                 movingRight = true;
+                Flip();
             }
         }
     }
-    void flip()
+    void Flip()
     {
         Vector3 scaler=transform.localScale;
+        scaler.x *= -1;
         transform.localScale=scaler;
     }
 }
