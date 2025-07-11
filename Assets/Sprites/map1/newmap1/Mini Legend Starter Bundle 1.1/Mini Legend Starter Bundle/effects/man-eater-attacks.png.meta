@@ -129,6 +129,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      man-eater-attacks_0: 918181637599501649
+      man-eater-attacks_1: 493812171830750748
+      man-eater-attacks_10: -6659725597962596158
+      man-eater-attacks_11: -2530327261927289471
+      man-eater-attacks_2: -3008687709118654791
+      man-eater-attacks_3: 2655334040295084958
+      man-eater-attacks_4: -7416557227168586185
+      man-eater-attacks_5: -2841106697145092322
+      man-eater-attacks_6: -5775638105085796121
+      man-eater-attacks_7: 3426221769827615692
+      man-eater-attacks_8: -4895086801358464559
+      man-eater-attacks_9: -4754846516879392749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,61 +1,73 @@
 fileFormatVersion: 2
-guid: 75189495fb5a7f240afdcff5911e28d9
+guid: a4ff9b5bcd103c046afbbc58a98e3f21
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -662114749134144608
-    second: dust-friction_0
+      213: -534242207500288312
+    second: Assets 1_0
   - first:
-      213: 3935753800758297965
-    second: dust-friction_1
+      213: -7561596572177719706
+    second: Assets 1_1
   - first:
-      213: -2981551147060892193
-    second: dust-friction_2
+      213: -4396061252477769625
+    second: Assets 1_2
   - first:
-      213: -264264527511080198
-    second: dust-friction_3
+      213: -3637176468013677832
+    second: Assets 1_3
   - first:
-      213: 8009697918553009082
-    second: dust-friction_4
+      213: 8866540013290690473
+    second: Assets 1_4
   - first:
-      213: -1056031234974939230
-    second: dust-friction_5
+      213: 4447425773683075185
+    second: Assets 1_5
   - first:
-      213: 8928536379597597173
-    second: dust-friction_6
+      213: -7499340820472659648
+    second: Assets 1_6
   - first:
-      213: -656447771196618522
-    second: dust-friction_7
+      213: -2191863938963501123
+    second: Assets 1_7
   - first:
-      213: 3458516353153934472
-    second: dust-friction_8
+      213: 2232637020889009645
+    second: Assets 1_8
   - first:
-      213: -4250120334661427036
-    second: dust-friction_9
+      213: -3038308683442897569
+    second: Assets 1_9
   - first:
-      213: 5504277752807883409
-    second: dust-friction_10
+      213: -3261552998882442266
+    second: Assets 1_10
   - first:
-      213: 1931290762606268786
-    second: dust-friction_11
+      213: 4011534777681452629
+    second: Assets 1_11
   - first:
-      213: -2110224601219122855
-    second: dust-friction_12
+      213: -2045606447612967098
+    second: Assets 1_12
   - first:
-      213: -8772092227919778827
-    second: dust-friction_13
+      213: -7655942015774215046
+    second: Assets 1_13
   - first:
-      213: -8845134243197377785
-    second: dust-friction_14
+      213: -3575039353988869396
+    second: Assets 1_14
   - first:
-      213: -4510338750237349936
-    second: dust-friction_15
+      213: -8719215850737061267
+    second: Assets 1_15
   - first:
-      213: 3997188878202535393
-    second: dust-friction_16
+      213: -6248876290649166771
+    second: Assets 1_16
   - first:
-      213: 9051752858954936826
-    second: dust-friction_17
+      213: 134020985348368567
+    second: Assets 1_17
+  - first:
+      213: -927750458624527792
+    second: Assets 1_18
+  - first:
+      213: 236833370562257942
+    second: Assets 1_19
+  - first:
+      213: -4032971951200114611
+    second: Assets 1_20
+  - first:
+      213: 3373457352949993609
+    second: Assets 1_21
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -164,13 +176,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dust-friction_0
+      name: Assets 1_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 85
-        width: 8
-        height: 10
+        x: 0
+        y: 379
+        width: 736
+        height: 967
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0abff49c422bfc6f0800000000000000
-      internalID: -662114749134144608
+      spriteID: 8cebce5fa8df598f0800000000000000
+      internalID: -534242207500288312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_1
+      name: Assets 1_1
       rect:
         serializedVersion: 2
-        x: 6
-        y: 35
-        width: 63
-        height: 50
+        x: 636
+        y: 1286
+        width: 122
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,173 +213,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d658791ba3b9e9630800000000000000
-      internalID: 3935753800758297965
+      spriteID: 66e198c0bffcf0790800000000000000
+      internalID: -7561596572177719706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_2
+      name: Assets 1_2
       rect:
         serializedVersion: 2
-        x: 17
-        y: 85
-        width: 48
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fdde6c757076f96d0800000000000000
-      internalID: -2981551147060892193
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dust-friction_3
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 52
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af237f6ffc4255cf0800000000000000
-      internalID: -264264527511080198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dust-friction_4
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 35
-        width: 15
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abba989d1d9282f60800000000000000
-      internalID: 8009697918553009082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dust-friction_5
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 36
-        width: 38
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a70a97df293851f0800000000000000
-      internalID: -1056031234974939230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dust-friction_6
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 64
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f92116288888eb70800000000000000
-      internalID: 8928536379597597173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dust-friction_7
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 52
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e88a38ea34d3e6f0800000000000000
-      internalID: -656447771196618522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dust-friction_8
-      rect:
-        serializedVersion: 2
-        x: 205
-        y: 53
-        width: 25
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 884ae979c4e1fff20800000000000000
-      internalID: 3458516353153934472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dust-friction_9
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 40
-        width: 24
+        x: 836
+        y: 1329
+        width: 16
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -377,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a067dfd21a8405c0800000000000000
-      internalID: -4250120334661427036
+      spriteID: 768243b059d0ef2c0800000000000000
+      internalID: -4396061252477769625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_10
+      name: Assets 1_3
       rect:
         serializedVersion: 2
-        x: 161
-        y: 48
-        width: 14
-        height: 14
+        x: 846
+        y: 1331
+        width: 70
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1920339047f136c40800000000000000
-      internalID: 5504277752807883409
+      spriteID: 8f282aed547268dc0800000000000000
+      internalID: -3637176468013677832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_11
+      name: Assets 1_4
       rect:
         serializedVersion: 2
-        x: 6
-        y: 4
-        width: 25
-        height: 21
+        x: 953
+        y: 1290
+        width: 140
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 271d32757b25dca10800000000000000
-      internalID: 1931290762606268786
+      spriteID: 9a79af64a274c0b70800000000000000
+      internalID: 8866540013290690473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_12
+      name: Assets 1_5
       rect:
         serializedVersion: 2
-        x: 36
-        y: 5
-        width: 25
-        height: 23
+        x: 1056
+        y: 1011
+        width: 291
+        height: 327
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,20 +301,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9593b08d7e9f6b2e0800000000000000
-      internalID: -2110224601219122855
+      spriteID: 178eb4d7d2e68bd30800000000000000
+      internalID: 4447425773683075185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_13
+      name: Assets 1_6
       rect:
         serializedVersion: 2
-        x: 68
-        y: 18
-        width: 13
-        height: 8
+        x: 642
+        y: 1242
+        width: 196
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,20 +323,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5fb60e16894434680800000000000000
-      internalID: -8772092227919778827
+      spriteID: 041042ac14dfce790800000000000000
+      internalID: -7499340820472659648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_14
+      name: Assets 1_7
       rect:
         serializedVersion: 2
-        x: 69
-        y: 9
+        x: 844
+        y: 1269
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf871a4c5fe491e0800000000000000
+      internalID: -2191863938963501123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_8
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1279
         width: 20
-        height: 11
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,20 +367,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 703a393f445cf3580800000000000000
-      internalID: -8845134243197377785
+      spriteID: dedc97e9a8bebfe10800000000000000
+      internalID: 2232637020889009645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_15
+      name: Assets 1_9
       rect:
         serializedVersion: 2
-        x: 99
-        y: 19
-        width: 12
-        height: 9
+        x: 921
+        y: 1282
+        width: 21
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,20 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0d76c6fadce0861c0800000000000000
-      internalID: -4510338750237349936
+      spriteID: f5db66d9952c5d5d0800000000000000
+      internalID: -3038308683442897569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_16
+      name: Assets 1_10
       rect:
         serializedVersion: 2
-        x: 99
-        y: 12
-        width: 14
-        height: 8
+        x: 942
+        y: 1288
+        width: 20
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,20 +411,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ed77615b1ed87730800000000000000
-      internalID: 3997188878202535393
+      spriteID: 6e38085f3d2acb2d0800000000000000
+      internalID: -3261552998882442266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dust-friction_17
+      name: Assets 1_11
       rect:
         serializedVersion: 2
-        x: 131
-        y: 14
-        width: 9
-        height: 9
+        x: 671
+        y: 1039
+        width: 67
+        height: 196
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,8 +433,228 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af1b2a854494e9d70800000000000000
-      internalID: 9051752858954936826
+      spriteID: 55e14d350a5dba730800000000000000
+      internalID: 4011534777681452629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1193
+        width: 195
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647c7c326cb8c93e0800000000000000
+      internalID: -2045606447612967098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_13
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1043
+        width: 127
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a743ac0bc41a0c590800000000000000
+      internalID: -7655942015774215046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 995
+        width: 75
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2937f16a8e26ec0800000000000000
+      internalID: -3575039353988869396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_15
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 803
+        width: 76
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62bcd0516f1ff680800000000000000
+      internalID: -8719215850737061267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 855
+        width: 128
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cee722f188749a0800000000000000
+      internalID: -6248876290649166771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 332
+        width: 341
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8232840632cd100800000000000000
+      internalID: 134020985348368567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 217
+        width: 603
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052ba719fd7ff13f0800000000000000
+      internalID: -927750458624527792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_19
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 450
+        width: 357
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614625b12b6694300800000000000000
+      internalID: 236833370562257942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 79
+        width: 333
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d486a93c0610808c0800000000000000
+      internalID: -4032971951200114611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 332
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9809383d69de0de20800000000000000
+      internalID: 3373457352949993609
       vertices: []
       indices: 
       edges: []
@@ -573,24 +673,28 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      dust-friction_0: -662114749134144608
-      dust-friction_1: 3935753800758297965
-      dust-friction_10: 5504277752807883409
-      dust-friction_11: 1931290762606268786
-      dust-friction_12: -2110224601219122855
-      dust-friction_13: -8772092227919778827
-      dust-friction_14: -8845134243197377785
-      dust-friction_15: -4510338750237349936
-      dust-friction_16: 3997188878202535393
-      dust-friction_17: 9051752858954936826
-      dust-friction_2: -2981551147060892193
-      dust-friction_3: -264264527511080198
-      dust-friction_4: 8009697918553009082
-      dust-friction_5: -1056031234974939230
-      dust-friction_6: 8928536379597597173
-      dust-friction_7: -656447771196618522
-      dust-friction_8: 3458516353153934472
-      dust-friction_9: -4250120334661427036
+      Assets 1_0: -534242207500288312
+      Assets 1_1: -7561596572177719706
+      Assets 1_10: -3261552998882442266
+      Assets 1_11: 4011534777681452629
+      Assets 1_12: -2045606447612967098
+      Assets 1_13: -7655942015774215046
+      Assets 1_14: -3575039353988869396
+      Assets 1_15: -8719215850737061267
+      Assets 1_16: -6248876290649166771
+      Assets 1_17: 134020985348368567
+      Assets 1_18: -927750458624527792
+      Assets 1_19: 236833370562257942
+      Assets 1_2: -4396061252477769625
+      Assets 1_20: -4032971951200114611
+      Assets 1_21: 3373457352949993609
+      Assets 1_3: -3637176468013677832
+      Assets 1_4: 8866540013290690473
+      Assets 1_5: 4447425773683075185
+      Assets 1_6: -7499340820472659648
+      Assets 1_7: -2191863938963501123
+      Assets 1_8: 2232637020889009645
+      Assets 1_9: -3038308683442897569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

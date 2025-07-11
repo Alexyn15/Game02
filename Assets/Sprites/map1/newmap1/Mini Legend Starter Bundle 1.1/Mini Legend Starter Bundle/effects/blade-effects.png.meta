@@ -156,6 +156,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -634,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blade-effects_0: 4404500673462179702
+      blade-effects_1: -873524251249107160
+      blade-effects_10: 5980869289301674363
+      blade-effects_11: 1590468360862832700
+      blade-effects_12: -7635064854308277731
+      blade-effects_13: -8175725657023803583
+      blade-effects_14: 785774765485852462
+      blade-effects_15: 7635000223752362723
+      blade-effects_16: 4730504115858578399
+      blade-effects_17: -4112401582428929078
+      blade-effects_18: 2397246942241470324
+      blade-effects_19: 6923876617609188553
+      blade-effects_2: -5657257301825499717
+      blade-effects_20: -3090295701885655483
+      blade-effects_3: -1656000743351324375
+      blade-effects_4: -518536562115133244
+      blade-effects_5: 8335632950445258264
+      blade-effects_6: 5190570399716070718
+      blade-effects_7: 8871410829563183545
+      blade-effects_8: -6715956007599527884
+      blade-effects_9: -6507281393163352123
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
