@@ -8,6 +8,7 @@ TagManager:
   - Trap
   - Enemy
   - Platform
+  - item
   layers:
   - Default
   - TransparentFX
@@ -16,8 +17,8 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
+  - Player
+  - Enemy
   - 
   - 
   - 
@@ -63,11 +64,11 @@ TagManager:
   - name: Item
     uniqueID: 3990461365
     locked: 0
-  - name: UI
-    uniqueID: 2754881107
-    locked: 0
   - name: Enemy
     uniqueID: 1626550127
+    locked: 0
+  - name: UI
+    uniqueID: 2754881107
     locked: 0
   m_RenderingLayers:
   - Default
