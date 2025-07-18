@@ -5848,11 +5848,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2543908706571995788, guid: d7cec7bf966a8b446b3e262d47f86937, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 192.91418
+      value: 193.76
       objectReference: {fileID: 0}
     - target: {fileID: 2543908706571995788, guid: d7cec7bf966a8b446b3e262d47f86937, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.7354283
+      value: -1.61
       objectReference: {fileID: 0}
     - target: {fileID: 2543908706571995788, guid: d7cec7bf966a8b446b3e262d47f86937, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5886,9 +5886,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6048341415158287905, guid: d7cec7bf966a8b446b3e262d47f86937, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6623833483020331140, guid: d7cec7bf966a8b446b3e262d47f86937, type: 3}
       propertyPath: m_Name
       value: Portal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6623833483020331140, guid: d7cec7bf966a8b446b3e262d47f86937, type: 3}
+      propertyPath: m_TagString
+      value: Finish
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4932810596260799209, guid: d7cec7bf966a8b446b3e262d47f86937, type: 3}
